@@ -1,6 +1,7 @@
 # Wireless-card-power-manipulation
 
 Simple programme to mainpulate the power of the wireless card.
+Made for the "Network Programming" university course.
 
 # Requirements
 
