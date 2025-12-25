@@ -6,7 +6,7 @@ Made for the "Network Programming" university course.
 # Requirements
 
 Linux family OS
-connection to the internet required only if case of confirmation 
+interpreter of C/C++ language (for ex. gcc) and connection to the internet. 
 
 # Example usage
 1. For the first of course, start from compiling the code:
