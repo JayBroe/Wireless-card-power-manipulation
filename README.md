@@ -20,5 +20,5 @@ sudo ./wireless_power.c wlo1 random_power <any value, it does not matter>
 sudo ./wireless_power.c wlo1 toff_power <any value, it does not matter>
 -turns off the card
 
-udo ./wireless_power.c wlo1 max_power <any value>
+sudo ./wireless_power.c wlo1 max_power <any value>
 -setting the power vaue for the chosen value
